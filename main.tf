@@ -1,5 +1,5 @@
 locals {
-  some_pets          = ["dog", "cat"]
+  some_pets          = ["dog", "cat", "pet-bird"]
   some_arbitrary_var = "try-number-2"
 }
 
